@@ -2,7 +2,6 @@
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning html,css,javascript and backend technologies
 - 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to build softwares 
 
